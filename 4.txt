@@ -1,0 +1,5 @@
+4. List three areas within Artificial Intelligence where Python is commonly used.
+Ans: 
+1. Natural Language Processing (NLP)
+2. Machine Learning (ML)
+3. Computer Vision

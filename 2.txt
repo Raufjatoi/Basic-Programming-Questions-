@@ -1,0 +1,6 @@
+2. Briefly describe the following terms in the context of programming languages: syntax,
+ semantics, and keywords.
+Ans :
+Syntax: Rules defining structure and organization of code.
+Semantics: Meaning conveyed by code.
+Keywords: Reserved words with predefined functionality in programming languages.
